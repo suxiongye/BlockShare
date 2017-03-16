@@ -118,7 +118,7 @@
 
         <li class="dropdown user-profile">
             <a href="#" data-toggle="dropdown">
-                <img src="assets/images/user-4.png" alt="user-image" class="img-circle img-inline userpic-32"
+                <img src="/assets/images/user-4.png" alt="user-image" class="img-circle img-inline userpic-32"
                      width="28"/>
                 <span>
 								BJUT SSE

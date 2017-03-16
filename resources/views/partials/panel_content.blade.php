@@ -1,6 +1,6 @@
 <div class="panel panel-default">
     <div class="panel-heading">
-        <h3 class="panel-title">{$panelTitle}</h3>
+        <h3 class="panel-title">{{$panel_title}}</h3>
         <div class="panel-options">
             <a href="#" data-toggle="panel">
                 <span class="collapse-icon">&ndash;</span>
